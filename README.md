@@ -1,4 +1,3 @@
-===============================================================
 Project Website done using Laravel, Bootstrap5 and PHP
 ===============================================================
 Website consist of multiple pages: {pages with cards,
